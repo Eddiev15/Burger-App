@@ -1,10 +1,10 @@
-DROP DATABASE `burgers_db`;
+DROP DATABASE `bn93kgg5r8gm6itf`;
 
-CREATE DATABASE burgers_db;
+CREATE DATABASE bn93kgg5r8gm6itf;
 
-USE burgers_db;
+USE bn93kgg5r8gm6itf;
 
-CREATE TABLE `burgers_db`.`events` (
+CREATE TABLE `bn93kgg5r8gm6itf`.`events` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `burger_name` VARCHAR(45) NOT NULL,
   `devoured` TINYINT NOT NULL,
